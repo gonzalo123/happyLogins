@@ -1,0 +1,3 @@
+server/node_modules
+worker/src/*.jpg
+worker/src/*.png
