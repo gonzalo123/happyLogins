@@ -207,7 +207,7 @@ rpc.server(on_data)
 
 Here you can see in action the working prototype
 
-[![Happy login](http://img.youtube.com/vi/SFCiz9GlhTw/1.jpg)](https://www.youtube.com/watch?v=SFCiz9GlhTw)
+[![Happy login](http://img.youtube.com/vi/SFCiz9GlhTw/0.jpg)](https://www.youtube.com/watch?v=SFCiz9GlhTw)
 
 Maybe we can do the same with another tools and even more simple but as I said before this example is just an excuse to play with those technologies:
 * Send webcam frames via websockets
