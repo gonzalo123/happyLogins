@@ -5,7 +5,7 @@ let socket = io.connect(location.origin),
     canvas = document.getElementById('canvas'),
     width = 640,
     height = 480,
-    delay = 800,
+    delay = 1000,
     jpgQuality = 0.6,
     isHappy = false;
 

@@ -39,7 +39,6 @@ def on_data(data):
     f = open('current.jpg', 'wb')
     f.write(base64.decodebytes(data))
     f.close()
-
     image_path = "current.jpg"
 
     out = []
